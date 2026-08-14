@@ -1,4 +1,5 @@
 # Projeto Herois - Sala de heróis, criação de times e missões
+Projeto realizado como trabalho full stack para entrega em sala de aula
 
 ## Tecnologias usadas:
 
